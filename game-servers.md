@@ -2,7 +2,7 @@
 title: Game Servers
 description: Oh yeah, we play video games here...
 published: true
-date: 2023-04-09T00:19:26.211Z
+date: 2023-04-09T19:01:33.732Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-08T04:44:05.620Z
@@ -17,6 +17,8 @@ If you would like us to host a game server that's missing from this list, please
 # List of Game Servers
 
 ## DayZ Experimental
+
+<a href="https://www.battlemetrics.com/servers/dayz/20291942"><img src="https://cdn.battlemetrics.com/b/yTENrCQu6/20291942.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700" /></a>
 
 Open the DayZ client, select "servers" on the left side, and press "DIRECT CONNECT" in the bottom-right. Enter for following values:
 
