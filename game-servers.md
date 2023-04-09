@@ -2,7 +2,7 @@
 title: Game Servers
 description: Oh yeah, we play video games here...
 published: true
-date: 2023-04-09T19:01:33.732Z
+date: 2023-04-09T19:02:51.976Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-08T04:44:05.620Z
@@ -18,7 +18,7 @@ If you would like us to host a game server that's missing from this list, please
 
 ## DayZ Experimental
 
-<a href="https://www.battlemetrics.com/servers/dayz/20291942"><img src="https://cdn.battlemetrics.com/b/yTENrCQu6/20291942.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700" /></a>
+<script type="application/javascript">window.addEventListener('message',function(e){if(e.data.uid&&e.data.type==='sizeUpdate'){var i = document.querySelector('iframe[name="'+e.data.uid+'"]');i.style.width = e.data.payload.width;i.style.height = e.data.payload.height;}});</script><iframe src="https://cdn.battlemetrics.com/b/yTENrCQu6/20291942.html?_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQzNjciLCJzZXJ2ZXIiOjIwMjkxOTQyLCJvcHRpb25zIjp7ImZvcmVncm91bmQiOiIjRUVFRUVFIiwiYmFja2dyb3VuZCI6IiMyMjIyMjIiLCJsaW5lcyI6IiMzMzMzMzMiLCJsaW5rQ29sb3IiOiIjMTE4NWVjIiwiY2hhcnRDb2xvciI6IiNGRjA3MDAifSwibGl2ZVVwZGF0ZXMiOnRydWUsInVzZXJfaWQiOjY5MzU0NSwiaWF0IjoxNjgxMDY2OTE3fQ.HnoQRWO_bMEbnEOUJhxXdKsmnL4DbGUAsOuVu-3SjhE" frameborder=0 style="border:0" name="dfkdp"></iframe>
 
 Open the DayZ client, select "servers" on the left side, and press "DIRECT CONNECT" in the bottom-right. Enter for following values:
 
