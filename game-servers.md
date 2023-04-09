@@ -2,7 +2,7 @@
 title: Game Servers
 description: Oh yeah, we play video games here...
 published: true
-date: 2023-04-09T00:18:18.359Z
+date: 2023-04-09T00:19:26.211Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-08T04:44:05.620Z
@@ -23,6 +23,8 @@ Open the DayZ client, select "servers" on the left side, and press "DIRECT CONNE
 **Server name or address:** `dayz.unnamed.group`
 **Password:** `lemon`
 **Port:** `2302`
+
+Once the game is launched and you're connected to the server, it may ask you to input the server password again.
 
 ## SCP: Secret Laboratory
 
