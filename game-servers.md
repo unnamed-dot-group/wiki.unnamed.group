@@ -2,7 +2,7 @@
 title: Game Servers
 description: Oh yeah, we play video games here...
 published: true
-date: 2023-04-09T19:03:35.336Z
+date: 2023-04-10T02:04:53.633Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-08T04:44:05.620Z
@@ -27,6 +27,15 @@ Open the DayZ client, select "servers" on the left side, and press "DIRECT CONNE
 **Port:** `2302`
 
 Once the game is launched and you're connected to the server, it may ask you to input the server password again.
+
+## Minecraft Vanilla
+
+[![Banner for 123 I love refrigerators :> 123](https://cdn.battlemetrics.com/b/gOdc3PioP/20297619.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)](https://www.battlemetrics.com/servers/minecraft/20297619)
+
+Use the following to connect to the server:
+
+**Hostname:** `vanilla.minecraft.unnamed.group`
+**Port:** `25565`
 
 ## SCP: Secret Laboratory
 
