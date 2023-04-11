@@ -2,7 +2,7 @@
 title: Game Servers
 description: Oh yeah, we play video games here...
 published: true
-date: 2023-04-11T12:21:50.745Z
+date: 2023-04-11T12:23:23.128Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-08T04:44:05.620Z
@@ -16,7 +16,7 @@ If you would like us to host a game server that's missing from this list, please
 
 # List of Game Servers
 
-## Arma 3 Liberation
+## Arma 3: Modded Liberation
 
 <a href="https://www.gametracker.com/server_info/198.244.252.99:2312/" target="_blank"><img src="https://cache.gametracker.com/server_info/198.244.252.99:2312/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
@@ -35,7 +35,7 @@ Open the Arma 3 client, select "servers" on the left side, and press "DIRECT CON
 Once the game is launched and you're connected to the server, it may ask you to input the server password again.
 
 
-## DayZ (Livonia)
+## DayZ: Modded Livonia
 
 <a href="https://www.gametracker.com/server_info/185.216.147.175:2302/" target="_blank"><img src="https://cache.gametracker.com/server_info/185.216.147.175:2302/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
@@ -53,7 +53,7 @@ Open the DayZ client, select "servers" on the left side, and press "DIRECT CONNE
 
 Once the game is launched and you're connected to the server, it may ask you to input the server password again.
 
-## DayZ Experimental (Chernarus)
+## DayZ Experimental: Vanilla Chernarus
 
 <a href="https://www.gametracker.com/server_info/88.198.52.78:2302/" target="_blank"><img src="https://cache.gametracker.com/server_info/88.198.52.78:2302/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
@@ -65,7 +65,7 @@ Open the DayZ client, select "servers" on the left side, and press "DIRECT CONNE
 
 Once the game is launched and you're connected to the server, it may ask you to input the server password again.
 
-## Minecraft Vanilla
+## Minecraft: Vanilla
 
 [![Banner for 123 I love refrigerators :> 123](https://cdn.battlemetrics.com/b/gOdc3PioP/20297619.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)](https://www.battlemetrics.com/servers/minecraft/20297619)
 
