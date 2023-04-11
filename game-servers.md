@@ -2,7 +2,7 @@
 title: Game Servers
 description: Oh yeah, we play video games here...
 published: true
-date: 2023-04-11T09:29:59.300Z
+date: 2023-04-11T11:08:30.483Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-08T04:44:05.620Z
@@ -17,6 +17,8 @@ If you would like us to host a game server that's missing from this list, please
 # List of Game Servers
 
 ## DayZ (Livonia)
+
+<a href="https://www.gametracker.com/server_info/185.216.147.175:2302/" target="_blank"><img src="https://cache.gametracker.com/server_info/185.216.147.175:2302/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
 ### Mods Installation
 
