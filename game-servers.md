@@ -2,7 +2,7 @@
 title: Game Servers
 description: Oh yeah, we play video games here...
 published: true
-date: 2023-04-11T11:08:30.483Z
+date: 2023-04-11T11:09:41.595Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-08T04:44:05.620Z
@@ -36,7 +36,7 @@ Once the game is launched and you're connected to the server, it may ask you to 
 
 ## DayZ Experimental (Chernarus)
 
-[![Banner for Unnamed Group Dayz Server](https://cdn.battlemetrics.com/b/yTENrCQu6/20291942.png?_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQzNjciLCJzZXJ2ZXIiOjIwMjkxOTQyLCJvcHRpb25zIjp7ImZvcmVncm91bmQiOiIjRUVFRUVFIiwiYmFja2dyb3VuZCI6IiMyMjIyMjIiLCJsaW5lcyI6IiMzMzMzMzMiLCJsaW5rQ29sb3IiOiIjMTE4NWVjIiwiY2hhcnRDb2xvciI6IiNGRjA3MDAifSwibGl2ZVVwZGF0ZXMiOnRydWUsInVzZXJfaWQiOjY5MzU0NSwiaWF0IjoxNjgxMDY3MDA1fQ.UmGngapapG7l_EFh2RSIvqZDtAj-9kjTnhbWk5oEfPM)](https://www.battlemetrics.com/servers/dayz/20291942)
+<a href="https://www.gametracker.com/server_info/88.198.52.78:2302/" target="_blank"><img src="https://cache.gametracker.com/server_info/88.198.52.78:2302/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
 Open the DayZ client, select "servers" on the left side, and press "DIRECT CONNECT" in the bottom-right. Enter for following values:
 
