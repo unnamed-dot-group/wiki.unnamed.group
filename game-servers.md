@@ -2,7 +2,7 @@
 title: Game Servers
 description: Oh yeah, we play video games here...
 published: true
-date: 2023-04-11T09:12:35.128Z
+date: 2023-04-11T09:23:44.947Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-08T04:44:05.620Z
@@ -16,7 +16,23 @@ If you would like us to host a game server that's missing from this list, please
 
 # List of Game Servers
 
-## DayZ Experimental
+## DayZ (Livonia)
+
+### Mods Installation
+
+Subscribe to [the setup mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2960880886), open the DayZ launcher, right click `@!UAG Modpack - Livonia`, select "Show dependencies", and finally click "FIX SELECTED DEPENDENCIES".
+
+### Joining the Server
+
+Open the DayZ client, select "servers" on the left side, and press "DIRECT CONNECT" in the bottom-right. Enter for following values:
+
+**Server name or address:** `dayz.unnamed.group`
+**Password:** `lemon`
+**Port:** `2302`
+
+Once the game is launched and you're connected to the server, it may ask you to input the server password again.
+
+## DayZ Experimental (Chernarus)
 
 [![Banner for Unnamed Group Dayz Server](https://cdn.battlemetrics.com/b/yTENrCQu6/20291942.png?_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQzNjciLCJzZXJ2ZXIiOjIwMjkxOTQyLCJvcHRpb25zIjp7ImZvcmVncm91bmQiOiIjRUVFRUVFIiwiYmFja2dyb3VuZCI6IiMyMjIyMjIiLCJsaW5lcyI6IiMzMzMzMzMiLCJsaW5rQ29sb3IiOiIjMTE4NWVjIiwiY2hhcnRDb2xvciI6IiNGRjA3MDAifSwibGl2ZVVwZGF0ZXMiOnRydWUsInVzZXJfaWQiOjY5MzU0NSwiaWF0IjoxNjgxMDY3MDA1fQ.UmGngapapG7l_EFh2RSIvqZDtAj-9kjTnhbWk5oEfPM)](https://www.battlemetrics.com/servers/dayz/20291942)
 
