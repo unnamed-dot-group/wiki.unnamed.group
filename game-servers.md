@@ -2,7 +2,7 @@
 title: Game Servers
 description: Oh yeah, we play video games here...
 published: true
-date: 2023-04-11T12:23:40.116Z
+date: 2023-04-11T12:25:13.062Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-08T04:44:05.620Z
@@ -18,21 +18,12 @@ If you would like us to host a game server that's missing from this list, please
 
 ## Arma 3: Vanilla Antistasi
 
-<a href="https://www.gametracker.com/server_info/198.244.252.99:2312/" target="_blank"><img src="https://cache.gametracker.com/server_info/198.244.252.99:2312/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
-
-### Mods Installation
-
-Subscribe to [the setup mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2950524645), open the Arma 3 launcher, right click `@!UAG Modpack - Liberation`, select "Show dependencies", and finally click "FIX SELECTED DEPENDENCIES".
-
-### Joining the Server
+<a href="https://www.gametracker.com/server_info/198.244.252.99:2302/" target="_blank"><img src="https://cache.gametracker.com/server_info/198.244.252.99:2302/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
 Open the Arma 3 client, select "servers" on the left side, and press "DIRECT CONNECT" in the bottom-right. Enter for following values:
 
-**Server name or address:** `arma.unnamed.group`
-**Password:** `lemon`
+**Server name or address:** `arma.uagpmc.com`
 **Port:** `2302`
-
-Once the game is launched and you're connected to the server, it may ask you to input the server password again.
 
 ## Arma 3: Modded Liberation
 
@@ -46,11 +37,9 @@ Subscribe to [the setup mod](https://steamcommunity.com/sharedfiles/filedetails/
 
 Open the Arma 3 client, select "servers" on the left side, and press "DIRECT CONNECT" in the bottom-right. Enter for following values:
 
-**Server name or address:** `arma.unnamed.group`
+**Server name or address:** `arma.uagpmc.com`
 **Password:** `lemon`
-**Port:** `2302`
-
-Once the game is launched and you're connected to the server, it may ask you to input the server password again.
+**Port:** `2312`
 
 ## DayZ: Modded Livonia
 
@@ -68,8 +57,6 @@ Open the DayZ client, select "servers" on the left side, and press "DIRECT CONNE
 **Password:** `lemon`
 **Port:** `2302`
 
-Once the game is launched and you're connected to the server, it may ask you to input the server password again.
-
 ## DayZ Experimental: Vanilla Chernarus
 
 <a href="https://www.gametracker.com/server_info/88.198.52.78:2302/" target="_blank"><img src="https://cache.gametracker.com/server_info/88.198.52.78:2302/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
@@ -79,8 +66,6 @@ Open the DayZ client, select "servers" on the left side, and press "DIRECT CONNE
 **Server name or address:** `experimental.dayz.unnamed.group`
 **Password:** `lemon`
 **Port:** `2302`
-
-Once the game is launched and you're connected to the server, it may ask you to input the server password again.
 
 ## Minecraft: Vanilla
 
