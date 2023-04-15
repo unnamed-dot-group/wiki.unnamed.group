@@ -2,7 +2,7 @@
 title: Game Servers
 description: Oh yeah, we play video games here...
 published: true
-date: 2023-04-14T23:31:59.634Z
+date: 2023-04-15T14:53:40.545Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-08T04:44:05.620Z
@@ -16,13 +16,13 @@ If you would like us to host a game server that's missing from this list, please
 
 # List of Game Servers
 
-## DayZ: Modded Livonia
+## DayZ: Modded Chernarus
 
 <a href="https://www.gametracker.com/server_info/185.216.147.175:2302/" target="_blank"><img src="https://cache.gametracker.com/server_info/185.216.147.175:2302/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
 ### Mods Installation
 
-Subscribe to [the setup mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2960880886), open the DayZ launcher, right click `@!UAG Modpack - Livonia`, select "Show dependencies", and finally click "FIX SELECTED DEPENDENCIES".
+Subscribe to [the setup mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2962664524), open the DayZ launcher, right click `@!UAG Modpack - Chernarus`, select "Show dependencies", and finally click "FIX SELECTED DEPENDENCIES".
 
 ### Joining the Server
 
