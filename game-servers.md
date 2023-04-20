@@ -2,7 +2,7 @@
 title: Game Servers
 description: Oh yeah, we play video games here...
 published: true
-date: 2023-04-20T15:35:27.687Z
+date: 2023-04-20T15:35:48.616Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-08T04:44:05.620Z
@@ -40,7 +40,7 @@ Open the in-game console by pressing <kbd>`</kbd> or <kbd>~</kbd> (usually the k
 
 ## Vintage Story
 
-Open "multiplayer," then enter the following:
+Open "multiplayer," select "Add New Server," then enter the following:
 
 **Server Name:** `Unnamed Group`
 **Host / IP Address:** `vintagestory.unnamed.group`
