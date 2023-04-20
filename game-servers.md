@@ -2,7 +2,7 @@
 title: Game Servers
 description: Oh yeah, we play video games here...
 published: true
-date: 2023-04-15T14:53:40.545Z
+date: 2023-04-20T15:35:27.687Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-08T04:44:05.620Z
@@ -37,3 +37,11 @@ Open the DayZ client, select "servers" on the left side, and press "DIRECT CONNE
 Open the in-game console by pressing <kbd>`</kbd> or <kbd>~</kbd> (usually the key to the left of 1) and enter the following:
 
 `connect scpsl.unnamed.group`
+
+## Vintage Story
+
+Open "multiplayer," then enter the following:
+
+**Server Name:** `Unnamed Group`
+**Host / IP Address:** `vintagestory.unnamed.group`
+**Password:** `lemon`
