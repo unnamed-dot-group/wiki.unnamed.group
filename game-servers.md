@@ -2,7 +2,7 @@
 title: Game Servers
 description: Oh yeah, we play video games here...
 published: true
-date: 2023-04-20T15:35:48.616Z
+date: 2023-04-22T22:28:55.294Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-08T04:44:05.620Z
@@ -15,6 +15,14 @@ Below are the details for each server that we host, as well as any information a
 If you would like us to host a game server that's missing from this list, please come ask us in the Discord!
 
 # List of Game Servers
+
+## Avorion
+
+Open "multiplayer," select "JOIN VIA IP," then enter the following:
+
+**Server Address:** `avorion.unnamed.group`
+**Server Name:** `Unnamed Group`
+**Password:** `lemon`
 
 ## DayZ: Modded Chernarus
 
