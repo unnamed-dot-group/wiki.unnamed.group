@@ -2,7 +2,7 @@
 title: Game Servers
 description: Oh yeah, we play video games here...
 published: true
-date: 2023-04-22T22:28:55.294Z
+date: 2023-04-22T22:29:38.478Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-08T04:44:05.620Z
@@ -22,7 +22,8 @@ Open "multiplayer," select "JOIN VIA IP," then enter the following:
 
 **Server Address:** `avorion.unnamed.group`
 **Server Name:** `Unnamed Group`
-**Password:** `lemon`
+
+Press "add server," then "join" and enter the password: `lemon`
 
 ## DayZ: Modded Chernarus
 
