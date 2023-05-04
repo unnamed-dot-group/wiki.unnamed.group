@@ -2,7 +2,7 @@
 title: Game Servers
 description: Oh yeah, we play video games here...
 published: true
-date: 2023-04-22T22:33:13.643Z
+date: 2023-05-04T17:47:59.820Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-08T04:44:05.620Z
@@ -24,6 +24,14 @@ Open "multiplayer," select "JOIN VIA IP," then enter the following:
 **Server Name:** `Unnamed Group`
 
 Press "add server," then "join" and enter the password: `lemon`
+
+## Barotrauma
+
+Open "SERVER BROWSER," select "DIRECT JOIN," then enter the following:
+
+**Server Address:** `barotrauma.unnamed.group`
+
+Press "JOIN," then enter the password: `lemon`
 
 ## DayZ: Modded Chernarus
 
