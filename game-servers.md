@@ -2,7 +2,7 @@
 title: Game Servers
 description: Oh yeah, we play video games here...
 published: true
-date: 2023-05-17T17:25:42.090Z
+date: 2023-05-17T18:05:22.202Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-08T04:44:05.620Z
@@ -57,6 +57,9 @@ Open the DayZ client, select "servers" on the left side, and press "DIRECT CONNE
 
 **Extra mods:**
 - https://www.curseforge.com/minecraft/mc-mods/origins-forge/files/4461237
+- https://www.curseforge.com/minecraft/mc-mods/origins-classes-forge/files/3942224
+- https://www.curseforge.com/minecraft/mc-mods/origins-accessibilities/files/3954394
+- https://www.curseforge.com/minecraft/mc-mods/origins-plus-plus/files/4476127
 
 ### Joining the Server
 
