@@ -2,7 +2,7 @@
 title: Game Servers
 description: Oh yeah, we play video games here...
 published: true
-date: 2023-05-04T17:47:59.820Z
+date: 2023-05-17T17:25:42.090Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-08T04:44:05.620Z
@@ -48,6 +48,20 @@ Open the DayZ client, select "servers" on the left side, and press "DIRECT CONNE
 **Server name or address:** `dayz.unnamed.group`
 **Password:** `lemon`
 **Port:** `2302`
+
+## Minecraft: All the Mods 8
+
+### Mods Installation
+
+**Base modpack:** https://www.curseforge.com/minecraft/modpacks/all-the-mods-8/files/4536678
+
+**Extra mods:**
+- https://www.curseforge.com/minecraft/mc-mods/origins-forge/files/4461237
+
+### Joining the Server
+
+1. Get whitelisted by `idiota#6968` on Discord.
+2. Connect to `odin.zue.dev:25566` in-game.
 
 ## SCP: Secret Laboratory
 
